@@ -1,0 +1,42 @@
+[
+  {
+    "id":1,
+    "name":"Jackson-Triggs",
+    "category":"drinks",
+    "description":"Red Wine",
+    "price":180,
+    "image":"https://s23527.pcdn.co/wp-content/uploads/2017/04/wine_bottle_and_glass_final_shot.jpg.optimal.jpg"
+  },
+  {
+    "id":2,
+    "name":"Espresso",
+    "category":"drinks",
+    "description":"Coffee",
+    "price":110,
+    "image":"https://e-horeca.mk/wp-content/uploads/2020/12/LAVAZZA-250G-CAFFE-ESPRESSO-COFFEE-GROUND-TIN.jpg"
+  },
+  {
+    "id":3,
+    "name":"B Natural",
+    "category":"drinks",
+    "description":"Mixed fruit juice",
+    "price":60,
+    "image":"https://images-na.ssl-images-amazon.com/images/I/61xrGXZzeQL._SX569_.jpg"
+  },
+  {
+    "id":4,
+    "name":"Lipton tea",
+    "category":"drinks",
+    "description":"Green tea and 300 enveloped tea bags",
+    "price":30,
+    "image":"https://cdn11.bigcommerce.com/s-ublgt8iaok/images/stencil/1280x1280/products/11352/25281/lipton_green_env_tea_cup_bags_300s_hr__52061.1592721820.jpg?c=1"
+  },
+  {
+    "id":5,
+    "name":"Water",
+    "category":"drinks",
+    "description":"3 bottles of water 0,5l",
+    "price":25,
+    "image":"https://5.imimg.com/data5/NM/FD/MY-39666084/water-bottle-500x500.jpg"
+  }
+]
